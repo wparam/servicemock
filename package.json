@@ -1,0 +1,24 @@
+{
+  "name": "servicemock",
+  "version": "1.0.0",
+  "description": "## This is server simply used for service mocking purpose",
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wparam/servicemock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wparam/servicemock/issues"
+  },
+  "homepage": "https://github.com/wparam/servicemock#readme"
+}

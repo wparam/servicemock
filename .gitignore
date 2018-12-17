@@ -1,0 +1,10 @@
+*.*~
+
+# IGNORE DIRECTORIES #
+node_modules
+public/lib
+public/dist
+output/
+*.txt
+*.xml
+*.log
