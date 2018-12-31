@@ -33,5 +33,5 @@ const startServer = port => {
 };
 
 const s1 = startServer(ports[0]);
-const s2 = startServer(ports[1]);
+// const s2 = startServer(ports[1]);
 
